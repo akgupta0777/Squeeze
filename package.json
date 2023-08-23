@@ -1,0 +1,26 @@
+{
+  "name": "squeeze",
+  "version": "1.0.0",
+  "description": "A module bundler written in javascript.",
+  "main": "lib/index.js",
+  "bin": {
+    "squeeze": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.9",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
