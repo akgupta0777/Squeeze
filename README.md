@@ -1,7 +1,7 @@
 # Squeeze
 <div align='center'>
   <a href="https://github.com/akgupta0777/Squeeze">
-    <img width="200" height="200" src="/assets/lemon3.png">
+    <img width="200" height="200" src="https://github.com/akgupta0777/Squeeze/assets/51379307/63538498-6607-46b1-89ab-22248f1f0568" />
   </a>
   <h1>Squeeze</h1>
   <p>
