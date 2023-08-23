@@ -22,7 +22,8 @@ Install with yarn:
 yarn add @akgupta0777/squeeze --dev
 ```
 <h2 align="center">Usage</h2>
-```bash
+
+```
 squeeze build                    : Bundles your code by looking at the default configuration file.
 squeeze build <Config Path>      : Bundles your code by looking at the specified configuration file.
 squeeze build <Options>          : Bundles your code by specified options entered by user.
@@ -35,5 +36,5 @@ squeeze help                     : Help and information related to squeeze comma
 ```
 
 <h2 align="center">Demo</h2>
-<iframe width="600" height="400" src="https://www.youtube.com/embed/9UcTEXim8F8">
-</iframe>
+
+https://github.com/akgupta0777/Squeeze/assets/51379307/0c357617-e2f2-4721-915b-79c16ce47bec
