@@ -22,7 +22,7 @@ Install with yarn:
 yarn add @akgupta0777/squeeze --dev
 ```
 <h2 align="center">Usage</h2>
-```
+```bash
 squeeze build                    : Bundles your code by looking at the default configuration file.
 squeeze build <Config Path>      : Bundles your code by looking at the specified configuration file.
 squeeze build <Options>          : Bundles your code by specified options entered by user.
