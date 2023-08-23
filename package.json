@@ -1,5 +1,5 @@
 {
-  "name": "squeeze",
+  "name": "@akgupta0777/squeeze",
   "version": "1.0.0",
   "description": "A module bundler written with NodeJS.",
   "main": "lib/index.js",
