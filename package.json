@@ -1,11 +1,20 @@
 {
   "name": "squeeze",
   "version": "1.0.0",
-  "description": "A module bundler written in javascript.",
+  "description": "A module bundler written with NodeJS.",
   "main": "lib/index.js",
   "bin": {
     "squeeze": "bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgupta0777/Squeeze.git"
+  },
+  "keywords": [
+    "Squeeze",
+    "bundler",
+    "module"
+  ],
   "directories": {
     "lib": "lib"
   },

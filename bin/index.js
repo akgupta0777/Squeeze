@@ -76,11 +76,13 @@ const runCommand = (args) => {
       let outputFolder = options.output || options.o;
       if(!entryFile){
         console.log(`\n ${chalk.redBright("[ERROR]: ")}Entry file not specified.`)
+        console.log(chalk.blueBright("Run squeeze help or squeeze --help for detailed list of commands."))
         return ;
       }
       entryFile = path.join(cwd,entryFile);
       if(!outputFolder){
         console.log(`\n ${chalk.redBright("[ERROR]: ")}Output path not specified.`)
+        console.log(chalk.blueBright("Run squeeze help or squeeze --help for detailed list of commands."))
         return ;
       }
       outputFolder = path.join(cwd,outputFolder);
